@@ -4,117 +4,118 @@ Glossário de comandos
 
 :Disciplina: Fundamentos de Sistemas Operacionais
 :Professor: Jurandy Soares
-:Nome: Seu nome completo
-:Matrícula: Sua matrícula
+:Nome: Damiana Rayssa Campos Freire
+:Matrícula: 20121144010737  
 :Data: 01/07/2015
 
 cat
-  Descrição do comando
+  Serve para juntar arquivos e mostrar o seu conteúdo. Ex :
 
 
 cd
-  Descrição do comando
+ criar um diretorio. EX : cd/var/www/html/so
 
 
 cowsay
-  Descrição do comando
+  É um comando que gera imagens com mensagens. Ex : cowsay -f
 
 
 echo
-  Descrição do comando
+  Serve para verficar o conteúdo de uma variável de ambiente. Ex : echo "$PATH"; echo /*.
 
 
 env
-  Descrição do comando
+  EXIBIR O VALOR DE UMA VARIAVEL DE AMBIENTE. Ex: $Env:<USERNAME>
 
 
 exit
-  Descrição do comando
+  Terminar uma sessão. Ex: exit
 
 
 help
-  Descrição do comando
+ Arquivo de ajuda do comando que voce digitou. Ex : ls --help
 
 
 HISTTIMEFORMAT="%d/%m/%y"
-  Descrição do comando
+  Listar os comandos feitos com a data e horário.
 
 
 hostname
-  Descrição do comando
+ Nome do computador. Ex : hostname
 
 
 ifconfig
-  Descrição do comando
+ Visualiza os ips da nossa máquina. Ex: ifconfig
 
 
 last
-  Descrição do comando
+  Indica o último login dos usuários. Ex: last $USER
 
 
 lastb
-  Descrição do comando
+  Ver o último login de um usuário específico. Ex: lasttb nome_de_um_amigo 
 
 
 ls
-  Descrição do comando
+  Listar arquivos de um diretório.Ex : ls
 
 
 mkdir
-  Descrição do comando
+  Criar um diretório. Ex: mkdir fusca
 
 
 nome="fulano
-  Descrição do comando
+  Criar variável nome. Ex: nome="Fulano"
 
 
 passswd
-  Descrição do comando
+  Muda a senha do usuário. Ex: passswd
 
 
 pwd
-  Descrição do comando
+  Mostra o caminho de um diretório que encontramos. Ex: pwd
 
 
 set
-  Descrição do comando
+  Definir varáveis de sessão. Ex: bash; shell
 
 
 tree
-  Descrição do comando
+  Mesma função que o ls, ele lista os arquivos, porém, de forma de árvore. Ex: tree -d
 
 
 tty
-  Descrição do comando
+  Mostra a minha máquina, no caso, a máquina que está logada no momento. Ex : tty
 
 
 vim
-  Descrição do comando
+  Editor de texto melhorado. Ex: vim
 
 
 wait
-  Descrição do comando
+ 
 
 
 wall
-  Descrição do comando
+  Envia uma mensagem para a área de notificação. Ex:
 
 
 which
-  Descrição do comando
+  Ver o caminho desse comando. Ex: which + comando estudado qualquer. 
 
 
 while
-  Descrição do comando
+  
 
 
 who
-  Descrição do comando
+  Listar os usuários logados. Ex : Who
 
 
 whoami
-  Descrição do comando
+  Diz quem é o dono da shell. Ex: whoami
 
 write
-  Descrição do comando
+  Escreve para outros usuários logados. Ex: echo "ola"  | write $usuario
+
 
